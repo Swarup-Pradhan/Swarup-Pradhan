@@ -78,7 +78,7 @@ Motivated and enthusiastic Computer Science and Engineering undergraduate seekin
   Designed a simple, scalable Elastic Beanstalk hosting architecture to improve performance, explained it in plain language, and
  outlined cost considerations for the client.
 
-- *Campus Ambassador at RINEX* (February 2025 - present)  
+- *Campus Ambassador at RINEX* (February 2025 - July 2026)  
 ---
 
 ## 📝 Personal Details
